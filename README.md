@@ -1,4 +1,4 @@
-![GDG Lima: Google Developer Group ](https://github.com/gdglima/meetupoctubre188/blob/master/logo.png)
+![GDG Lima: Google Developer Group ](https://github.com/GDGLima/MeetupOctubre18/blob/master/meetupoctubre18.jpg)
 
 ## Meetup GDG Lima Octubre 18
 Sigue nuestras novedades en nuestras redes sociales : 
